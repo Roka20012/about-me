@@ -458,8 +458,9 @@ body {
 }
 /* FOOTER */
 footer {
+    display: flex;
+    justify-content: center;
 	background-color: #0f9f6c;
-	height: 30px;
 	text-align: center;
 	line-height: 30px;
 	text-transform: uppercase;
